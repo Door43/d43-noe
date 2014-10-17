@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[noe:home|Door43 (noe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-noe|d43-noe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-noe/archive/master.zip|d43-noe.zip]]
+
+**Recent Changes**
+{{changes>ns = noe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/noe|Ethnologue data]]
+
